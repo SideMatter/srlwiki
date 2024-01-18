@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 726 641" width="726" height="641">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nH1SPW/CMFx1MDAxNNz5XHUwMDE1UbpWXHUwMDEwJyRcdTAwMDHG0lx1MDAwZVxmVKpcdTAwMThcdTAwMTiqXHUwMDBlJnkkboyd2lx1MDAwZYFcIv57bVx1MDAwM3GK1MqSJd/7uHfnd1x1MDAxYXier441+DPPh0OGKclcdTAwMDVu/UeD70FIwplcdTAwMGWF9i15IzKbWSpVy9lohOt6WFx1MDAxMLXhvFx1MDAxYWZ8dylcdTAwMDNcbjtgSurEd/32vJO9e0RcdTAwMDIyhVlBwVx1MDAxNtiQ40Lj8T36ypnljdJcdTAwMTBcdTAwMDVcdTAwMDFCcZdA5LOmU5Dr6Fx1MDAxNlNcdC5iIL9dvX1+XHUwMDA1kdjDmibz+XKZXHUwMDFkXHUwMDE30rFuXHSlK3WkdirJtXhcdTAwMTeTSvBcbtYkV+XNgVx1MDAxZf5XleBNUTKQRj3qUF7jjKijwYKgQy9cdTAwMTbMPIdcdTAwMWOMyGjavW1FmNxxzznlwnA/IDDHsW9wVlx1MDAxNXpcdTAwMDSWdzlKYCZrLPSPuLz2qipJXFzvXHUwMDEySFEqXHLGXHUwMDEzN7hcdTAwMDRr7SRcblx1MDAxMUqnKO1cdTAwMDKGpV7k9pM/nJ9cdTAwMDLvYGEqWENp31x1MDAxNJZfTbktg1uH6IqcnVxmk//SWyPH0NQ5vnw3SoM4joNxipKep5Sw6p6e8qxyXHUwMDFiYtGzvm1TX6/wSumW3WhaXHUwMDFhyVfkXHUwMDFifrXx91x1MDAwNNqn/+1cdTAwMWRcXDWYtVx1MDAwMqv1PDj/XHUwMDAwXHUwMDE3luHWIn0=<!-- payload-end -->
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="726" height="641" fill="transparent"/><g stroke-linecap="round" transform="translate(30 30) rotate(0 333 290.5)"><path d="M32 0 C187.08 0.31, 342.7 0.43, 634 0 M32 0 C152.71 0.9, 272.99 1, 634 0 M634 0 C656.77 -1.36, 667.28 9.78, 666 32 M634 0 C653.87 0.8, 665.15 11.65, 666 32 M666 32 C666.91 170.01, 667.27 309.63, 666 549 M666 32 C667.03 185.11, 667.14 338.9, 666 549 M666 549 C665.5 568.79, 654.16 582.62, 634 581 M666 549 C664.82 570.48, 654.76 582.32, 634 581 M634 581 C455.27 582.28, 277.67 581.2, 32 581 M634 581 C489.3 580.55, 344.2 580.21, 32 581 M32 581 C10 582.82, -0.65 571.68, 0 549 M32 581 C10.67 581.48, -0.86 571.02, 0 549 M0 549 C-1.6 342.01, -2.37 136.19, 0 32 M0 549 C-0.63 381.9, -0.71 214.29, 0 32 M0 32 C-0.51 11.93, 10.01 0.37, 32 0 M0 32 C1.95 9.28, 12.1 -0.98, 32 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></svg>

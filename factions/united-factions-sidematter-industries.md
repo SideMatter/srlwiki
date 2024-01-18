@@ -4,8 +4,11 @@
 
 Leader or notable persons/entities: Head of UF and SideMatter Industries SideMatter\
 Location of town hall or other memorable location: -196, 69, 374\
-Founding date: Server Founding Date\
+Founding date: Server Founding Date
 
+{% hint style="info" %}
+Connected to SquidRail via Red and Blue Lines
+{% endhint %}
 
 ## Faction Information
 
