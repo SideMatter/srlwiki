@@ -13,3 +13,4 @@
 * [RDS Unity](factions/rds-unity.md)
 * [Juniper's Farm](factions/junipers-farm.md)
 * [Kinyakumo](factions/kinyakumo.md)
+* [United Factions/SideMatter Industries](factions/united-factions-sidematter-industries.md)
