@@ -2,23 +2,23 @@
 
 ## Basic Stats
 
-Leader or notable persons/entities: NAME\
-Location of town hall or other memorable location: LOCATION\
-Founding date: Can be unknown \
+Leader or notable persons/entities: Juniper\
+Location of town hall or other memorable location: Northern Mountains\
+Founding date: Exact Date Unknown \
 
 
 ## Faction Information
 
-The backstory of Faction: Where did they come from, why are they here, what do they specialize in, how can they grow as a society, etc. This is your chance to lore dump all over this page.
+The backstory of Faction: 
+After Juniper's home village was pillaged and destroyed, she set out to start a new life, alone. She found a suitable place to build her farmhouse, and set to work building it up. She now comfortably has a fenceless livestock area, flourishing crops, and a large claim of land to spread her wings over.
 
+She is largely neutral, only reacting to direct threats to her and what little she owns. She is currently allied with The Grand Yosokoan Empire, solely for the protection they offer her against big threats she cannot handle herself, and allied with Moonlight Isle, because Mona is a good friend.
 
 
 ## Top 3-5 things about your nation
 
-This is kinda of a TLDR where you list your top 5 things that are unique or different about your nation. Be creative!
-
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-* Item 5
+* Population of 1
+* Neutral
+* Literally Just A Farm
+* The faction furthest north
+* Based in the mountains
