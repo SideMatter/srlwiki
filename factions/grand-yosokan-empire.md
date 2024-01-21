@@ -27,6 +27,7 @@ After Daikuno died, Zandemir took control of the tribe, but there was new people
 - Altai
 - Karelia
 - Masovia
+
 Zandemir was known for his foreign relations, and so, with much persuasion and consultations, united the 7 tribes under 1 kingdom. Instead of calling the Kingdom, Ulanovsk, they decided to go with a different word from the language they shared. The name chosen was Yosokoa (Yo-soh-koah) which means "many in one" representing the unity of 7 tribes. Because of this unification. the neighboring Kingdom of Nevrax was immediatley angered by the prosperity of Yosokoa and plunged head first into the War of the Kingdoms. Zandemir was killed in battle during the final years of the war. Because of his death, the Yosokoan soldiers made a final charge while beseiging Nevrax's capitol, Anthria. The Siege of Antria was the last battle as the Yosokoan soldiers killed the King of Nevrax and the kingdom fell to the hands of Yosokoa. After peace was negotiated, the people of Ulanovsk decided that Nanokadi should succeed Zandemir as the 2nd king. Nanokadi reigned for 25,000 Earth Years before passing on and Nazerious was chosen as the 3rd King.
 
 ## DOWNFALL OF THE HOMELAND
