@@ -11,6 +11,7 @@
 |N.D.S.E. (National Defense Systems Engineers)|
 |N.D.S.E. First In Command: Vanessa Haganehara|
 |N.D.S.E. Second In Command: Remilia Haganehara|
+|Seven?|
 |SSAIR (Shinoyama Science Analysis Instition of Research)|
 
 ---
@@ -18,8 +19,8 @@
 ## Basic Info
 ||
 |---|
-| Location of town hall or other memorable location: Fenghuang Dian (Phoenix Palace) |
-| Founding date: Estimated 5 Thousand Years Ago, however, time can be skewered by realm differences.| 
+| Governmental Building(s): *Fenghuang Dian (Phoenix Palace) & N.D.S.E HQ*|
+| Founding date: *Estimated 5 Thousand Years Ago, however, time can be skewered by realm differences.*| 
 | Technology & Trade oriented nation.|
 
 ---
@@ -34,6 +35,51 @@ Due to the empire being trade oriented and the Emperor's keen senses on making c
 After another thousand years have passed, The Guardian council decided that they need an even more powerful technology, a super machine that can finally solve all problems that humanity has, diseases, poverty, hunger and sub-conflicts. In order to advance their research into achieving their goal, they decided to expand to other worlds by utilizing the quantum technology that Kinyakumo possesses. The local deity, sensing a disturbence due to the creation of their machine, decides to utilize her power and seals it away. For some, it declares the end of the deity.
 
 Even with the surpression, the machine still manages to open portals to other realms. One of seven nations, Tsubaki, was choosen by the Emperor as well as The Guardians to represent Kinyakumo while they expand into the foreign realm, reason being Tsubaki's already rich industry and technology research centers such as the SSAIR (Shinoyama Science Analysis Instition of Research).
+
+---
+### Holidays
+
+#### Lunarian New Year /Nongli Xinnian (农历新年)
+
+#### Tri-Beast Parade / Sankemono no odori (三獣の踊)
+
+#### Shukakuki Harvest Festival (収穫季)
+
+#### Shinkon Matsuri (神魂祭り)
+
+#### Heavenly Descendants' Nights of Peace / Anye (霄裔安夜)
+
+---
+
+### Fables and Legends
+
+#### Three Childrens and The Divine Weapon
+
+#### Dragon of Lin
+
+#### Lion of Gui
+
+#### Phoenix (Fenghuang) of Tsubaki
+
+#### Lunarian Tales
+
+#### The Demon of Heaven and The Angel of Hell
+
+#### The Comforter of Death
+
+---
+
+### Religions (TW: Religious Topics, Skip If No Comfy)
+
+#### Taoism of Lao
+
+#### Pre-Edo Shintoism
+
+#### Shinigami Shintoism
+
+#### Zen-Buddhism
+
+#### Sephirahism
 
 ---
 ## Notible Entities
@@ -56,13 +102,14 @@ Even with the surpression, the machine still manages to open portals to other re
 | *"Divine Lord"* |
 | *"World Eater"*|
 | *Often refered in masculine titles such as "sir"*|
-| *"chihuahua" -Vanessa*|
+| *"Chihuahua" -Vanessa*|
 
 |**Characteristics**|
 |     :-----------:     | 
 | Age:    *Infinity*    |
 | Height: *3' (92 cm)*  |
 | Gender: *Female*      |
+| Specie: *Divine Beast - Dragon*      |
 
 #### Background
 
@@ -142,6 +189,7 @@ ______
 | Age:    *25*    |
 | Height: *5'7" (170 cm)*  |
 | Gender: *Female*      |
+| Specie: *Human(?)* |
 
 #### Background
 Fuyuchi Koyuki has no parents, she was found on a mountain when she was around 10. The local orphanage took her in, it is said that she could be a reincarnation of the Lion of Gui, the same Lion who felled Longlin from heaven, but there are no clear evidence on such a claim, the claim mostly stemed from her naturally golden blonde hair, the same luxurious fluff and shine as the fur of the Lion from the legends. She had no recollection of any memories prior to her discovery.
@@ -197,6 +245,7 @@ Koyuki has a heavy sense of duty, she is still very much married to her policing
 | Age:    *25[^1]*    |
 | Height: *5'4" (163 cm)*  |
 | Gender: *Female*      |
+| Specie: *Divine Beast - Phoenix (Fenghuang)|
 
 [^1]: Age of when Koiwa became Immortal
 
@@ -338,6 +387,39 @@ However, her phoenix counterpart is straightforward, often deemed as rude but ho
 #### Influences
 
 ---
+
+## Important Locations
+
+#### Fenghuang Dian (Phoenix Palace)
+(Where Koiwa is)
+
+#### Q.I. Singularity Gate
+(The portal where Kinyakumo-Tsubaki came from)
+
+#### N.D.S.E Weaponry Research Facility
+(Weapons museum pretty much)
+
+#### Kinyakumo Encryption Yield Station (K.E.Y.S)
+(Where I would probably dump my building assets, but oh, it is just a place for securing data... like my building assets)
+
+---
+
+## Tourist Attractions
+
+#### SSAIR Local Wildlife and Marine Center
+(Basically a zoo)
+
+#### Extinction Museum
+(Preservation of extincted animals)
+
+#### Atlas 777R - "Callie"
+(Giant Robot)
+
+#### Tri-Beast Statue
+(Dragon, Lion and Phoenix)
+
+#### Baku Tea House
+(Hmm.. Seven...)
 
 [Will continue with more info...]
 
