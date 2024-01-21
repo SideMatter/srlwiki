@@ -50,8 +50,8 @@ Yosokoa is a member of the United Factions, a global congregation of all nations
 Yosokoa now is assisting in the creation of the Western Alliance, made up of Kinyakumo, Starlight Isle and Yosokoa, All nations that currently occupy the Western Continent, separated by the Kirameku Strait.
 
 # OTHER IMPORTANT ENTITIES/PLACES
-Yosokoa, along with Kinyakumo is creating the Shinoyama Science Analysis Instition of Research (or SSAIR), more will be expanded as the University comes to fruition.
-Council of the 7 Tribes (To be constructed soon)
+- Yosokoa, along with Kinyakumo is creating the Shinoyama Science Analysis Instition of Research (or SSAIR), more will be expanded as the University comes to fruition.
+- Council of the 7 Tribes (To be constructed soon)
 
 # Tourism Sector
 To be Announced...
