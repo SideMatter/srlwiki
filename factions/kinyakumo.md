@@ -22,6 +22,9 @@
 | Governmental Building(s): *Fenghuang Dian (Phoenix Palace) & N.D.S.E HQ*|
 | Founding date: *Estimated 5 Thousand Years Ago, however, time can be skewered by realm differences.*| 
 | Technology & Trade oriented nation.|
+| Motto(JP): *憂懼を受け入れ、黄金の未来を創造。*|
+| Motto(CH): *接受恐惧，创造辉煌的未来。*|
+| Motto(EN): *Embrace the Fear, Create a Golden Future.*|
 
 ---
 ## History
@@ -85,7 +88,43 @@ Tsubaki, the youngest, and the seventh nation, focused mainly on businesses, tra
 
 #### Outworlder Branch - Kinyakumo-Tsubaki
 
+After emerging from the other side of the Q.I. singularity, N.D.S.E. immediately got to work setting up a base and even mapping out an area for a palace to be constructed. After further scouting of the land, it seems like the realm they landed in already have societies and even empires. 
+
+Koyuki acted as the ambassador with the nearby nations and empires, in attempt to establish supports and connections. Although, Koyuki is still quite cautious, however, in this foreign realm, Koyuki is cut off from her connection with the Divine Guardians, therefore she has the freedom to say anything and do anything in the outworlder realm.
+
+With the help of universal translation implants, important figures such as those higher ups at N.D.S.E. and Koyuki are able to understand the local tongue with ease. Koiwa doesn't seems to need them, for reasons unknown, she can automatically understand the local tongue without any translations.
+
+=======
+
+#### 1.5 Impact
+Distrust began to build between the head of N.D.S.E (Vanessa) and Koyuki, over the judgement of Koiwa's actions in the past. Because of this distrust, Koiwa is afraid of an infighting, and especially afraid of Koyuki disliking her. Her overthinking and lack of communication with Koyuki eventually lead to a mental breakdown that caused the 1.5 Impact. 
+
+Almost like the First Impact, except Koiwa's flames and explosive forces were conceited inside the palace under the core suppression mechanisms; a system which is specifically designed to suppress extreme and sudden emotions that resonates with the phoenix core and Koiwa's spiritual core at the same time, supposedly, it should prevent the same disaster as the First Impact, however, the system is still in testing and it is imperfect.
+
+Koiwa's cores meltdown anyways, and her intense emotions forced open the Gate of Guf. Like the Q.I. Singularity, the Gate of Guf leads to the imaginary, but a dimension of imaginary that is supposedly hidden and mirrors reality, it doesn't leads to another realm, it is just a physical manifestation of one's extremely strong thoughts.
+
+Second in Command of N.D.S.E., Remilia Haganehara, also known as "Remmy", designed a specialized unit named ATLAS: Alternate Threshold Load Algorithm Suppressor, also named after the Greek mythology titan "Atlas", who held up the celestial sphere of the world. This incredibly large, human piloted, half biological humanoid machine, held the rings of the gate, stretching them open as they were collapsing down to a point, preventing further collision meltdown of the cores and also preventing the destruction of the outworlder realm they just settled in.
+
+With the ring stretched, the Gate of Guf is unable to close and release its potential energy, thus suspended above the palace, where the phoenix core resides, also with this, the mirror realm of the palace is attracted to the real world palace due to the cores desire to become one. However, by unexplained miracle, the mirror palace seems to only be hovering above, with no movements at all.
+
+This sparked many fears as well as inspiration for Q.I. research across Kinyakumo. With the incident also brings certain unpleasant events.
+
+=======
+
+#### Post 1.5 Impact
+
+The land in which current day Kinyakumo-Tsubaki sits on in the outworlder realm, according to SSAIR (Local university) historical analysis teams, or H.A.T, the land was once a site for a civilization who vanished or was reduced rapidly due to unrecorded reasons, due to ambassador reports, a demonic entity seemed to have swept the area and caused massive reduction in population, leaving behind remnants of despair. Utilizing this report, H.A.T. concludes that the local land may have residual, unextinguished spirits that houses certain levels of force that could only be described as "magic".
+
+The opening Gate of Guf seems to have an ongoing conflict with said local spirits, causing unexplained havoc such as sudden sickness, massive energy fluctuation and unstable energy entropy.
+
+In response, Kinyakumo has cut ties with neighboring nation; Neo Kirameku, with the conclusion that the local spirits who belongs to the ancestor of Neo Kirameku's ruler are causing havoc due to conflicts with Q.I., in fear of any "magical" interactions that could intensify the havoc.
+
+By isolating away from effects of this type of "magic", specifically sourced from Kirameku, Kinyakumo has closed its borders at Neo Kirameku, with any who moved into Kinyakumo from Neo Kirameku to be escorted by the K.P.D.- Kinyakumo Police Deparment. As well as local historical remnants extinguished by the Divine Spear of Tsubaki, controlled by the Queen Tsubaki Koiwa.
+
+During this event, the K.P.D and N.D.S.E. received technological and medical aid from a neighboring empire called The Grand Yosokoan Empire, ruled under the reign of Nazorious.
+
 ---
+
 ### Holidays
 
 #### Lunarian New Year /Nongli Xinnian (农历新年)
@@ -166,9 +205,9 @@ Longlin was once a Dragon General in Heaven, a strong half dragon half man who l
 
 Even in his death, he fought through the afterlife for a chance to be reborn and settle his scores with the Lion of Gui, however, his rashness and his thirst for war was punished. Instead of reborn as his former, glorious self, he was reborn as a young lady inside the lotus leaves of a shrine.
 
-Longlin retained some memories, although angry at the heavens, she eventually accepts the punishment, and live her life on Earth amongst mortals. Her leadership attitude won the favors of many and her still-clear divine knowledge helped aid humanity in technology. She quickly rose to power, eventually founding her own country which she named Kinyakumo, meaning golden medicinal eye.
+Longlin retained some memories, although angry at the heavens, she eventually accepts the punishment, and live her life on Earth amongst mortals. Her leadership attitude won the favors of many and her still-clear divine knowledge helped aid humanity in technology. She quickly rose to power, eventually founding her own empire which she named Kinyakumo, meaning golden medicinal eye.
 
-She decides that peace can also be an option, as she remembers her days in heaven were brutal, war and violence was the daily norm, and that peace is a change of scenery.
+She decides that peace can also be an option, as she remembers her days in heaven were brutal, war and violence was the daily norm, and the batles she had to lead her army through in order to end the Seventh World War, peace could be a change of scenery.
 
 Under her powerful rule, she decides to expand out to the stars, settling in other planets, whilist leaving the original Earth as diverse as it is, even if Kinyakumo became most of the Earth.
 
