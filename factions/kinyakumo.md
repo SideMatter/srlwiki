@@ -28,13 +28,62 @@
 
 ### Basics
 
-Kinyakumo is founded when the current Emperor Longlin helped humanity advance in extreme speeds by utilizing her divine knowledge. Wanting to take a break from her former warmongering life, she decides that it is best for Kinyakumo to exist on trade alone, instead of war.
+#### Beginning of Kinyakumo
+Once upon a time, where the year of humanity is marked as "2357", humanity prayed for a savior in the midst of a seventh world war. They prayed for an angel to descend, free all from suffering. However, when the lightning struck the Azure Dragon fountain in Kiyomizu Temple located in Kyoto, Japan, instead of a savior, a large egg appeared.
 
-Due to the empire being trade oriented and the Emperor's keen senses on making compromises, Kinyakumo expanded out of its original planet earth, into other earth-like planets. After 2 thousand years have passed, Kinyakumo has conquered 7 Earth-like planets and a dyson sphere for each.
+The egg eventually hatched a young lady with deer like antlers, blue and red gradient eyes, described with a hint of lizardry, and patches of shiny scales that of obsidian spear heads, her scales intensified more and more towards the long, dragon like tail attached to her body at the back. The fur that runs along her spine glowed by the ends.
 
-After another thousand years have passed, The Guardian council decided that they need an even more powerful technology, a super machine that can finally solve all problems that humanity has, diseases, poverty, hunger and sub-conflicts. In order to advance their research into achieving their goal, they decided to expand to other worlds by utilizing the quantum technology that Kinyakumo possesses. The local deity, sensing a disturbence due to the creation of their machine, decides to utilize her power and seals it away. For some, it declares the end of the deity.
+Many began to worship this young lady, claiming her as the savior that humanity prayed for, but for some, she could also be a demon from the depths of hell, finally coming to attack humanity while it is at its weakest states. Truth is, she is just a fallen warrior from heaven, a heaven not of any faith, a heaven that exists because the hopes and delusions of humanity, or by scientific terms at the time, the so called "Imaginary". A sort of "heaven" not well understood by many.
 
-Even with the surpression, the machine still manages to open portals to other realms. One of seven nations, Tsubaki, was choosen by the Emperor as well as The Guardians to represent Kinyakumo while they expand into the foreign realm, reason being Tsubaki's already rich industry and technology research centers such as the SSAIR (Shinoyama Science Analysis Instition of Research).
+The Kiyomizu Temple, a refuge of war victims at the time, along with the temple's monks, took in this creature and named her Longlin, Long for her dragon like appearance, and Lin for the forest that the monks hopes to recover from the devastation of war. Even with the outcries of some groups of refugees, arguing that she is a demon who must be tossed away, the monks accepted her as their own, as part of their beliefs that "demons were not born, they were made".
+
+With the help of the temple, and Longlin's incredible learning skills and speeds, she quickly became the smartest amongst all, with her ability to come up with strategies in the midst of chaos, her encouraging speech and her commanding voice quickly won the favors of many. She had started her own army, calling it "Kinyakumo".
+
+Kinyakumo means "The Medicinal Eye of Gold", Longlin came up with the name in order to honor the nurses and doctors, those who overcame themselves, those who abandoned humanity, those who braved hails of war, those with a keen eye, understanding the emotions of others, all in order to save anyone they can. Longlin, like the monks of the temple, wants a more peaceful world.
+
+And so, under her command, she quickly became recognized by more and more people, she has gained power and even faith. Many fought for her, trusting her to bring about a new future, the true symbol of hope, a general of an unfathomable army, blood spilled on many soils and once living flesh decayed away. By 2399, Longlin became the new "Emperor" of Japan. Many considered her as a masculine figure, hence the title of "Emperor".
+
+=======
+
+#### Forming of Modern Day Kinyakumo
+
+No freedom is without restrictions, no peace is recognized without war. Longlin, finally gotten back to her heavenly senses, possible with her dragon blood. 
+
+Yielding her divine power, with a stomp, she split the earth, for it is her drums, beating at her intimidating march, the sound for a beautiful future. With a roar, she summoned thunder, flashes of energy overloading her enemies, for their death was instant and painless, no longer worrying. With a wave of her arm, she summoned gusts of strong winds that of hurricanes, knocking away those who inflicts pain, and soothing those who waited patiently for a cure to suffering. With the blood dripped from her wounds, she manifested them into tsunamis, washing away sins of the past. With a shine from her eyes, wildfire busted into the heart of darkness, exterminating shadows of humanity.
+
+There is no ending, as long as she exists, the universe will keep thriving.
+
+Lastly, with her divine spear, the Massiah, she has ended the Seventh World War. Piercing open a gate to imaginary, she has answered the lost. The deity who waits on the other side accepted everyone. She praised Longlin of her dedication, and so, the world woke up to a beautiful morning. For some, the seemingly everlasting world wars were a fever dream that ended humanity, but for others, it was real. Longlin now stands on the top of the world, for she has conquered humanity.
+
+Under her rule, everything changed, humanity stood up, and advanced forward, walking on the bloody soil, they have achieved world peace. Kinyakumo expanded, from an army, to entirety of East Asian, now, she has the Earth, for the people, she now stands in a place respectable to a God. And under her breath, no more wars can be fought
+
+Longlin focused on bringing knowledge to the people, advancing every technical aspects, even with the technological set backs of the world wars, Longlin brought them back, and made them even better. Eventually, humanity is able to conquer the moon, then other planets, even going as far as Neptune, but why stop there?
+
+In the year 5555, humanity has officially conquered 7 exo-earth-like-planets along with each equipped with a Dyson Sphere[^1](Energy harnessing straight from the star of the planet). Each ruled by one nation. For those in the past, a planet size nation could be called an empire, but with the existence of Longlin, it is only part of an empire.
+
+With the 7 planets and their rulers, they've established The Divine Guardian Council. Each planet contributes their most gifted, most talented, the planet's ultimate, and have that individual be the Divine Guardian of that planet nation. It is a position even higher than that nation's rulers, for they represent the nation as a whole and has the honor to sit by the same table as Emperor Longlin.
+
+The Council discuss together, planning the future for humanity.
+
+But oh, why stop at just planets? Why not go into other realms? 
+
+=======
+
+#### Modern Day Kinyakumo
+
+With extensive planning, the Divine Guardians desires to make a super machine, or as they called it "Second God", an artificial, clockwork God made by humanity, to solve residue problems still reside within the world and quicken advancements. Emperor Longlin has longed for a time for her to retire from throne, and wants to live carefreely as a normal citizen, and hence forward with the plan.
+
+In order to create the Clockwork God, they want to understand Imaginary, as such, the Q.I. research started, or quantum-imaginary, a field of science and physics devoted to understanding the fabrics of reality itself.
+
+However, during the making of this machine, it caught the attention of the deity behind the curtain, the one who watches from the realm of Imaginary, due to the research of said field tampering with Q.I., The deity, who has seen all of time, tries her best to destroy and seal up the machine with her own power, in the process, damaging herself and the machine. For many, this marks the death of the deity.
+
+Even with the damaged mechanism, it was still able to utilize its Q.I. tampering abilities. With last of its life, it stretched out a tear in the fabrics of reality, and hence, the portal of Q.I. Singularity formed, gaining access to another realm via imaginary.
+
+Tsubaki, the youngest, and the seventh nation, focused mainly on businesses, trades, and technological research, was chosen as the explorer of outworlder realms. Under the rule of Tsubaki Koiwa, the Queen of the Queendom, along with her newly ascended Divine Guardian, Fuyuchi Koyuki, entered the Q.I. Singularity.
+
+=======
+
+#### Outworlder Branch - Kinyakumo-Tsubaki
 
 ---
 ### Holidays
