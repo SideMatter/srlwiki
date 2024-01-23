@@ -1,7 +1,7 @@
 # Kinyakumo-Tsubaki
 # Notible Entities
 
-### Emperor Longlin
+## Emperor Longlin
 
    [Insert Longlin_sprite.png here]    
 |**Name**|
@@ -28,7 +28,7 @@
 | Gender: *Female*      |
 | Specie: *Divine Beast - Dragon*      |
 
-#### Background
+### Background
 
 Longlin was once a Dragon General in Heaven, a strong half dragon half man who lead the Million Steel Army and fought the other factions in heaven for power and a search for utimate wisdom, however, he fell during battle, killed by his opponent, the Lion of Gui.
 
@@ -41,7 +41,7 @@ She decides that peace can also be an option, as she remembers her days in heave
 Under her powerful rule, she decides to expand out to the stars, settling in other planets, whilist leaving the original Earth as diverse as it is, even if Kinyakumo became most of the Earth.
 
 
-#### Personality
+### Personality
 
 Longlin is the definition of "small but festy". Even after thousands of years living in her small mortal body, she still isn't used to being called "small" or "short", as she dislikes being teased for her height, because of it, Longlin often appear to her subjects as a 80 meter tall hologram dragon man, only those who are close to her such as the various kingdom/queendom leaders or The Divine Guardian Council knows of her true appearances.
 
@@ -52,7 +52,7 @@ Longlin views war as a waste of finite resources, despite her former title as a 
 She has the keen senses to read people's emotions and accurately predict how people and their properties disperse, however, she often fails expressing emotions on her own.
 
 
-#### Abilities
+### Abilities
 
 - Longlin's "Divine Spear", also known as Spear of Massiah, is only used for when a nation in the empire is under serious threat, a type of threat that the nation's leaders are unable to solve on their own. It has the power to vaporize regular matter into antimatter in a controlled scale, as well as create a barrier and or rift in space by warping the space around it due to extreme force. The spear alone can open the Gate of Guf[^3]; An imaginary space opposite to that of reality. So called, "Spear of Massiah" is due to it only being used in order to save a nation from disaster.
 - Process data in extreme speeds. As the Emperor of Kinyakumo, along with her divine body, she has trained herself to read millions of data in matter of seconds. She has extreme reflex and can deflect any incoming attacks up to 99% speed of light. She can read attacks almost 1 second from the future.
@@ -62,7 +62,7 @@ She has the keen senses to read people's emotions and accurately predict how peo
 
 ______
 
-### The Divine Guardian Council
+## The Divine Guardian Council
 [Insert TDGC_logo.png]
 
 |**Name**|
@@ -73,17 +73,17 @@ ______
 |     :-----------:     | 
 ||
 
-#### Key Members
+### Key Members
 
-#### Descriptions
+### Descriptions
 
-#### Works/Projects
+### Works/Projects
 
-#### Influences
+### Influences
 
 ---
 
-### Tsubaki's Divine Guardian - Fuyuchi Koyuki
+## Tsubaki's Divine Guardian - Fuyuchi Koyuki
 [Insert koyuki_sprite.png here]
 
 |**Name**|
@@ -108,7 +108,7 @@ ______
 | Gender: *Female*      |
 | Specie: *Human(?)* |
 
-#### Background
+### Background
 Fuyuchi Koyuki has no parents, she was found on a mountain when she was around 10. The local orphanage took her in, it is said that she could be a reincarnation of the Lion of Gui, the same Lion who felled Longlin from heaven, but there are no clear evidence on such a claim, the claim mostly stemed from her naturally golden blonde hair, the same luxurious fluff and shine as the fur of the Lion from the legends. She had no recollection of any memories prior to her discovery.
 
 Koyuki has a natural talent in martial arts, and practice the arts of the swords at a young age, by the time she was 13, she defeated Kinyakumo's swordsmaster Guilin, because of her incredible skill, the headmaster of the orphanage often took her on tournaments, even if they were brutal. Koyuki never really got a chance to interact with other kids, except for the headmaster's kid; Vanessa. Koyuki mostly focused on honing her swordsmanship, however, as time goes on, Koyuki eventually felt that her talent was being extorted and exploited. She hosted a final duel between the headmaster and herself, which Koyuki won not soon after the duel even started. The headmaster, not admitting defeat, decided to pit Vanessa against Koyuki.
@@ -125,10 +125,10 @@ Koyuki's heavy sense of duty quickly rose her rank to a police captain, she was 
 
 She is one of many who survived the first impact by shear luck, as she was summoned to the Lunarian Capital (space station) just days before the impact, however, also due to her being summoned there, the First Impact occured as she wasn't able to save Koiwa from being burnt. She regrets accepting the summon and decides to dedicate herself as Koiwa's bodyguard and part-time police officer post-impact. This caused Koiwa to fall in love with her and personally promoted her to the Divine Guardian Council. Because of her excellent mastery of swords and her extensive knowledge from her police duties, she was able to pass the entry exam with ease. Although there are skepticisms from the other members of the Divine Guardians due to the council members all joined at younger ages and are now hundreds of years old, Koyuki is the only young member of the council, even so, they accepted her, as the last Divine Guardian of Tsubaki perished hundreds of years ago, and they have not yet found a replacement till now.
 
-#### Personality
+### Personality
 Koyuki has a heavy sense of duty, she is still very much married to her policing job, and would still assist in law enforcement whenever she can. Her strong sense of justice and her skills had the citizens giving her the "Lion of Gui" nickname, referencing the Lion General from Heaven who was the primary figure for "good, selfless warrior". She has trouble expressing herself and often can't find the right words to describe emotions, however she is very understanding of criminal psychology. She is very stern and doesn't often understand jokes or hints of romance, she always speak in a formal, poetic manner, she is also polite and good mannered. Koyuki is incredibly brave, so much so that she often puts her life on the line, but would still miraculously get the job done. She tries to solve conflicts by talking or compromises, fighting is only last resort.
 
-#### Abilities
+### Abilities
 - Extreme speed and agility, mainly due to her years of sword practicing and martial arts.
 - Can utilize any object as a weapon, if she can move it, it's a weapon
 - Photographic memories (specifically for maps and faces)
@@ -137,7 +137,7 @@ Koyuki has a heavy sense of duty, she is still very much married to her policing
 
 ---
 
-### Tsubaki Koiwa
+## Tsubaki Koiwa
 [insert koiwa_sprite.png here]
 
 |**Name**|
@@ -166,7 +166,7 @@ Koyuki has a heavy sense of duty, she is still very much married to her policing
 
 [^1]: Age of when Koiwa became Immortal
 
-#### Background
+### Background
 Tsubaki Koiwa was one of the "pure" human bloodline, a bloodline stem from the original Earth, where they have no genetic mods. At most, they have implants that help with their skeletal, besides that, the Tsubaki royal bloodline is very against implants or genetic modding.
 
 Koiwa was borned with pink hair, fading to blue on the tips, her eyes were also a gradient of pink to blue. These features shocked the royal family, believing that her mother had utilized a gene mod in secret, however, with multiple testings, it is suggested that Koiwa's mother never used any type of modifications, and that Koiwa was naturally just born with those features. Because of this, Koiwa immedietly became the favorite of the King, believing that she is blessed by the divine. Her relatives became jealous of her, spreading vicious rumours and lies, in attempt to ruin Koiwa's reputation. 
@@ -181,7 +181,7 @@ On the day of throne competition, in order to remove Koiwa out of the picture, t
 
 The Divine lent her a hand, and Koiwa was resurrected from the cinders of her burnt corpse, into a new immortal body, whilist caused the devestating event that is the First Impact.
 
-#### First Impact
+### First Impact
 |Incident Stats|
 |---|
 |Area of Impact: Heavy Impact at the Eastern hemisphere(10 ~ 20 KM radius) of Neodynus, a crater around 11 KM(36K ft) deep[^2]. The effects of the impact spread across the globe|
@@ -208,18 +208,18 @@ Koiwa has no choice but to oblige.
 
 New realm already has other nations, however, Koiwa decides to stay neutral, sticking to the "no attacking unless threatened" rule.
 
-#### Personality
+### Personality
 Koiwa herself has a playful, fruity and sly personality, likes to flirt with women (specifically her Divine Guardian), sometimes shy and dislikes talking to outsiders. She doesn't often take things seriously and "memes" around, she prefers that way in order to hide the emotional trauma she has from the First Impact. When she is serious, it feels off putting and unpredictable. She dispises fire, or any flame related thing, such as flickering lights, kitchen stoves, lighters, even paper fires used for stage prop. She also dislikes spicy food and has a cat's tongue when it comes to hot foods.
 
 However, her phoenix counterpart is straightforward, often deemed as rude but honest, offensivly logical and hard to debate with for her quick wits for pointing out flaws in debates.
 
-#### Abilities
+### Abilities
 - "Divine Spear" Spear of Veritas, it has the ability to morph to adjust with its surroundings. Like the Divine Spear that Longlin wields, it has the ability to open Gate of Guf, however Koiwa has not grant the ability to control that yet. Koiwa calls the spear as the "brutally honest toothpick", as it is named after a Roman Goddess of Truth. It is the ultimate weapon of Tsubaki that only Koiwa; now a Divine being, can wield and control.
 - Diverse knowledge in medicine and medical, can make almost any type of medicine (given materials).
 
 ---
 
-### N.D.S.E (National Defense Systems Engineers)
+## N.D.S.E (National Defense Systems Engineers)
 [Insert NDSE_logo.png]
 
 |**Name**|
@@ -230,17 +230,17 @@ However, her phoenix counterpart is straightforward, often deemed as rude but ho
 |     :-----------:     | 
 ||
 
-#### Key Members
+### Key Members
 
-#### Descriptions
+### Descriptions
 
-#### Works/Projects
+### Works/Projects
 
-#### Influences
+### Influences
 
 ---
 
-### N.D.S.E. - Vanessa Haganehara
+## N.D.S.E. - Vanessa Haganehara
 
 |**Name**|
 |     :-----------:     |
@@ -254,15 +254,15 @@ However, her phoenix counterpart is straightforward, often deemed as rude but ho
 |     :-----------:     | 
 ||
 
-#### Background
+### Background
 
-#### Personality
+### Personality
 
-#### Abilities
+### Abilities
 
 ---
 
-### N.D.S.E. - Remilia Haganehara
+## N.D.S.E. - Remilia Haganehara
 
 |**Name**|
 |     :-----------:     |
@@ -276,15 +276,15 @@ However, her phoenix counterpart is straightforward, often deemed as rude but ho
 |     :-----------:     | 
 ||
 
-#### Background
+### Background
 
-#### Personality
+### Personality
 
-#### Abilities
+### Abilities
 
 ---
 
-### SSAIR
+## SSAIR
 [Insert SSAIR_logo.png here]
 
 |**Name**|
@@ -295,12 +295,12 @@ However, her phoenix counterpart is straightforward, often deemed as rude but ho
 |     :-----------:     | 
 ||
 
-#### Key Members
+### Key Members
 
-#### Descriptions
+### Descriptions
 
-#### Works/Projects
+### Works/Projects
 
-#### Influences
+### Influences
 
 ---
