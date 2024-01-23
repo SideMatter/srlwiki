@@ -12,5 +12,7 @@
 * [Neo Kirameku](factions/neo-kirameku.md)
 * [RDS Unity](factions/rds-unity.md)
 * [Juniper's Farm](factions/junipers-farm.md)
-* [Kinyakumo](factions/kinyakumo.md)
+* [Kinyakumo](factions/kinyakumo/README.md)
+  * [Rulers/Leaders](factions/kinyakumo/rulers-leaders.md)
+  * [Page 1](factions/kinyakumo/page-1.md)
 * [United Factions/SideMatter Industries](factions/united-factions-sidematter-industries.md)
