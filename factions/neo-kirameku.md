@@ -1,5 +1,7 @@
 # Neo Kirameku
 
+*Disclaimer: The dragon statue at the main northeastern entrance, the dragon pin on Emi's clothing, and Emi's hair and eyes changing color for splatfests are NOT related to lore in any way. They're just references to Emi's main persona, The Gatekeeper. They've been traits of that character since December 2022 and the statue has been up since June 2023.*
+
 ## Basic Stats
 
 Leader or notable persons/entities: Emi *Grand Elder*
@@ -36,7 +38,7 @@ Extra info: As the last Kiramekan left, she has a strong personal tie to Kiramek
 
 Name: Spiorad
 
-Age *at death*: 195 years
+Age *at death*: 194 years
 
 Age *current*: 795 years
 
@@ -109,7 +111,6 @@ In 2023, a young mage named Emi came across the ruins of Kirameku's capital whil
 * Summer and Winter solstices and Fall and Spring Equinoxes
 * October 31st and November 1st: Festival of the Dead - An evening and a day where spirits are allowed free access to the mortal world again. The night of October 31st is when evil spirits return, but are easily warded away by the color purple. November 1st is when the spirits of the deceased return to visit the mortal world to see their home and families. This holiday is similar to real-world Halloween and Day of the Dead.
 * December 5th: Gifting Day - A day where people gift presents to friends and loved ones. Similar to real-world Christmas, happens over real-world St Nicholas Tag
-* December 14th: Elder's day - this day marks Grand Elder Emi's birthday. That's basically it there's not really any special celebrations for it. This is Emi's actual birthday too.
 * December 24th-25th: Festival of Lights - This is a more somber holiday where it's made to memorialize those lost in The Great Tragedy. A candlelight vigil is held the night of the 24th. Happens over real-world Christmas.
 
 
