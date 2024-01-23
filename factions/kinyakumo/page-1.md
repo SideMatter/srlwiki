@@ -1,4 +1,4 @@
-# Kinyakumo -Tsubaki
+# Kinyakumo-Tsubaki
 # Nation Info: History and Culture
 ---
 ## Leader or notable persons/entities
