@@ -27,9 +27,9 @@
 | Motto(EN): *Embrace the Fear, Create a Golden Future.*|
 
 ---
-## History
+# History
 
-### Beginning of Kinyakumo
+## Beginning of Kinyakumo
 Once upon a time, where the year of humanity is marked as "2357", humanity prayed for a savior in the midst of a seventh world war. They prayed for an angel to descend, free all from suffering. However, when the lightning struck the Azure Dragon fountain in Kiyomizu Temple located in Kyoto, Japan, instead of a savior, a large egg appeared.
 
 The egg eventually hatched a young lady with deer like antlers, blue and red gradient eyes, described with a hint of lizardry, and patches of shiny scales that of obsidian spear heads, her scales intensified more and more towards the long, dragon like tail attached to her body at the back. The fur that runs along her spine glowed by the ends.
@@ -46,7 +46,7 @@ And so, under her command, she quickly became recognized by more and more people
 
 =======
 
-### Forming of Modern Day Kinyakumo
+## Forming of Modern Day Kinyakumo
 
 No freedom is without restrictions, no peace is recognized without war. Longlin, finally gotten back to her heavenly senses, possible with her dragon blood. 
 
@@ -70,7 +70,7 @@ But oh, why stop at just planets? Why not go into other realms?
 
 =======
 
-### Modern Day Kinyakumo
+## Modern Day Kinyakumo
 
 With extensive planning, the Divine Guardians desires to make a super machine, or as they called it "Second God", an artificial, clockwork God made by humanity, to solve residue problems still reside within the world and quicken advancements. Emperor Longlin has longed for a time for her to retire from throne, and wants to live carefreely as a normal citizen, and hence forward with the plan.
 
@@ -84,7 +84,7 @@ Tsubaki, the youngest, and the seventh nation, focused mainly on businesses, tra
 
 =======
 
-### Outworlder Branch - Kinyakumo-Tsubaki
+## Outworlder Branch - Kinyakumo-Tsubaki
 
 After emerging from the other side of the Q.I. singularity, N.D.S.E. immediately got to work setting up a base and even mapping out an area for a palace to be constructed. After further scouting of the land, it seems like the realm they landed in already have societies and even empires. 
 
@@ -94,7 +94,7 @@ With the help of universal translation implants, important figures such as those
 
 =======
 
-### 1.5 Impact
+## 1.5 Impact
 Distrust began to build between the head of N.D.S.E (Vanessa) and Koyuki, over the judgement of Koiwa's actions in the past. Because of this distrust, Koiwa is afraid of an infighting, and especially afraid of Koyuki disliking her. Her overthinking and lack of communication with Koyuki eventually lead to a mental breakdown that caused the 1.5 Impact. 
 
 Almost like the First Impact, except Koiwa's flames and explosive forces were conceited inside the palace under the core suppression mechanisms; a system which is specifically designed to suppress extreme and sudden emotions that resonates with the phoenix core and Koiwa's spiritual core at the same time, supposedly, it should prevent the same disaster as the First Impact, however, the system is still in testing and it is imperfect.
@@ -109,7 +109,7 @@ This sparked many fears as well as inspiration for Q.I. research across Kinyakum
 
 =======
 
-### Post 1.5 Impact
+## Post 1.5 Impact
 
 The land in which current day Kinyakumo-Tsubaki sits on in the outworlder realm, according to SSAIR (Local university) historical analysis teams, or H.A.T, the land was once a site for a civilization who vanished or was reduced rapidly due to unrecorded reasons, due to ambassador reports, a demonic entity seemed to have swept the area and caused massive reduction in population, leaving behind remnants of despair. Utilizing this report, H.A.T. concludes that the local land may have residual, unextinguished spirits that houses certain levels of force that could only be described as "magic".
 
@@ -123,9 +123,9 @@ During this event, the K.P.D and N.D.S.E. received technological and medical aid
 
 ---
 
-### Holidays
+## Holidays
 
-#### Lunarian New Year /Nongli Xinnian (农历新年)
+### Lunarian New Year /Nongli Xinnian (农历新年)
 
 Celebrated on the 1st, 2nd and 3rd full moon after the new year approaches, sometimes people celebrate them right when the local calendar hits January 1st of next year, but officially, the holiday season doesn't start till the 1st full moon approaches.
 
@@ -133,7 +133,7 @@ Culturally similar to Chinese New Year in terms of food preparation, decors, tem
 
 =======
 
-#### Tri-Beast Parade / Sankemono no odori (三獣の踊)
+### Tri-Beast Parade / Sankemono no odori (三獣の踊)
 
 The three divine descends of heaven: The Dragon, The Lion and The Phoenix (Fenghuang) from ancient fables. The dance is to celebrate their "retirement" from the ever lasting chaos in heaven, into a new life full of new experiences. All 3 of the dances are performed by the same group of performers. As the dances occur, there will always be bands or orchestras playing nearby or behind the performers.
 
@@ -145,40 +145,40 @@ On the **3rd full moon**, the phoenix flies around the cities. The phoenix lante
 
 =======
 
-#### Shukakuki Harvest Festival (収穫季)
+### Shukakuki Harvest Festival (収穫季)
 
-#### Shinkon Matsuri (神魂祭り)
+### Shinkon Matsuri (神魂祭り)
 
-#### Heavenly Descendants' Nights of Peace / Anye (霄裔安夜)
-
----
-
-### Fables and Legends
-
-#### Three Childrens and The Divine Weapon
-
-#### Dragon of Lin
-
-#### Lion of Gui
-
-#### Phoenix (Fenghuang) of Tsubaki
-
-#### Lunarian Tales
-
-#### The Demon of Heaven and The Angel of Hell
-
-#### The Comforter of Death
+### Heavenly Descendants' Nights of Peace / Anye (霄裔安夜)
 
 ---
 
-### Religions (TW: Religious Topics, Skip If No Comfy)
+## Fables and Legends
 
-#### Taoism of Lao
+### Three Childrens and The Divine Weapon
 
-#### Pre-Edo Shintoism
+### Dragon of Lin
 
-#### Shinigami Shintoism
+### Lion of Gui
 
-#### Zen-Buddhism
+### Phoenix (Fenghuang) of Tsubaki
 
-#### Sephirahism
+### Lunarian Tales
+
+### The Demon of Heaven and The Angel of Hell
+
+### The Comforter of Death
+
+---
+
+## Religions (TW: Religious Topics, Skip If No Comfy)
+
+### Taoism of Lao
+
+### Pre-Edo Shintoism
+
+### Shinigami Shintoism
+
+### Zen-Buddhism
+
+### Sephirahism
