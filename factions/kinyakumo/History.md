@@ -1,7 +1,8 @@
-# Kinyakumo - Tsubaki
-# Nation Info: History and Culture
+# Kinyakumo-Tsubaki
+# Nation Info: History
 ---
 ## Leader or notable persons/entities
+(Details of each see: Important Figures tab)
 ||
 |---|
 |Emperor of Kinyakumo: Emperor Longlin|
@@ -123,62 +124,3 @@ During this event, the K.P.D and N.D.S.E. received technological and medical aid
 
 ---
 
-## Holidays
-
-### Lunarian New Year /Nongli Xinnian (农历新年)
-
-Celebrated on the 1st, 2nd and 3rd full moon after the new year approaches, sometimes people celebrate them right when the local calendar hits January 1st of next year, but officially, the holiday season doesn't start till the 1st full moon approaches.
-
-Culturally similar to Chinese New Year in terms of food preparation, decors, temples and shrine rituals, traditions in family gathering, however it has its own charm with the Tri-Beast dance.
-
-=======
-
-### Tri-Beast Parade / Sankemono no odori (三獣の踊)
-
-The three divine descends of heaven: The Dragon, The Lion and The Phoenix (Fenghuang) from ancient fables. The dance is to celebrate their "retirement" from the ever lasting chaos in heaven, into a new life full of new experiences. All 3 of the dances are performed by the same group of performers. As the dances occur, there will always be bands or orchestras playing nearby or behind the performers.
-
-On the **1st full moon**, the dragon roams around the cities, performers dressed in azure silk clothing holds up bamboo rods that props up the long, paper lantern body of the azure dragon, Dragon of Lin. Usually the size and length of a public bus or a metro train. The head performer utilizes string manipulation to make the dragon's head blink and its jaws move, or even activate the propane ignition for the dragon to spit blue fire, the gas pipe leading to the ignition is designed a way so it emits a roaring sound effect when the pressurized propane gas releases. The musical for this one utilizes instruments such as drums, flutes, and a special type of "water speaker" that emulates sounds of ocean waves. The 1st dance is always the dragon, as the dragon is the first descender. A celebration for the dragon's divine, element controlling power forming Kinyakumo, also very much a birthday gift to the Emperor Longlin.
-
-On the **2nd full moon**, the lion waltz around the cities. The head of the lions, the golden lion, with its fur all shiny and gold-like, resembling the Lion of Gui, who is the second descender. Following the Golden Lion, are many lines of "lion cubs", often made up of locals who dress up in lion themed cosplays (masks, fictional characters, fur-suits). The Lion dance is very similar to the Chinese Lion Dance. The performers of the lion dance often utilize the lion to interact with the locals, often giving away random holiday objects as gifts, such as paper lanterns, origami, fruits or lion minted gold coins. Because the performers for the lion dance are all covered under the golden fur of the lion, the performers often carry backpacks for gifts to give away. A celebration for the selflessness and kindness of the Lion of Gui.
-
-On the **3rd full moon**, the phoenix flies around the cities. The phoenix lantern is mostly remote controlled by the body motion capture of the head performer, utilizing military technology for mecha pilots. The head performer wears a silk robe of pink and blue gradient and a paper bird mask, as they dance a ballet that tells the story of the pheonix, utilizing smooth and elegant movements to capture the phoenix's spirits of feminine, power and hope. The other performers act as side characters. Besides the head performer, there are even amounts of side performers divided left and right, one side with pink silk robes and the other with blue silk robes. They often dance in harmony and switch positions. As the phoenix lantern flies with the performer, the locals release their own lanterns with their own wishes. A celebration for the phoenix's self-discovery whilst fighting the two opposite sides of itself, a tribute to the Phoenix of Tsubaki. Compare to the other dances, this one is more melodic and soothing.
-
-=======
-
-### Shukakuki Harvest Festival (収穫季)
-
-### Shinkon Matsuri (神魂祭り)
-
-### Heavenly Descendants' Nights of Peace / Anye (霄裔安夜)
-
----
-
-## Fables and Legends
-
-### Three Childrens and The Divine Weapon
-
-### Dragon of Lin
-
-### Lion of Gui
-
-### Phoenix (Fenghuang) of Tsubaki
-
-### Lunarian Tales
-
-### The Demon of Heaven and The Angel of Hell
-
-### The Comforter of Death
-
----
-
-## Religions (TW: Religious Topics, Skip If No Comfy)
-
-### Taoism of Lao
-
-### Pre-Edo Shintoism
-
-### Shinigami Shintoism
-
-### Zen-Buddhism
-
-### Sephirahism
