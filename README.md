@@ -11,3 +11,8 @@
 7. Create a pull request by going to the "Pull Request" page. This is basically the same thing as handing in your work for the teacher to grade
 8. Done! All PRs will be merged within 24 hours.
 
+
+
+{% hint style="warning" %}
+If you don't make a Pull Request in step 7, your work will not be uploaded to the server.
+{% endhint %}
