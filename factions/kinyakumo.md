@@ -466,8 +466,6 @@ At the Night of Peace, all electricity shuts off in order for the people to view
 
 The day after Anye, households, shrines, temples and government buildings all go through massive clean ups, to clean and throw away the "chaos" that accumulated over the year, preparing for the new year to come.
 
-### =======
-
 ### Fables and Legends
 
 #### Three Childrens and The Divine Weapons
