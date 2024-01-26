@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Splatoon Research Lab Official Minecraft Wiki](README.md)
+* [Squiki](README.md)
+* [Lore Recap](lore-recap.md)
 
 ## Factions
 
