@@ -4,7 +4,7 @@
 
 ## Basic Stats
 
-Leader or notable persons/entities: Emi *Grand Elder*
+Leader or notable persons/entities: Emi *Grand Elder*, Saph *Elder*
 
 Location of town hall or other memorable location: Kirameku's Offices of International Affairs is located on the west end of Kirameku's deep caverns. A castle is currently being built on the southern islands.
 
@@ -29,7 +29,29 @@ Weapons of Choice: *Excalibur's Judgement* sword, *Tome of the Ancients* spellbo
 
 Backstory: Originally an adventurous spirit, Emi was born and raised in Yosokoa after her ancestors fled there during The Great Tragedy. She became more cautious after being attacked by an endermen at a young age and eventually being captured and tortured by Coirbeachd when put on the spot to seal him away when she was still inexperienced with magic and combat, developing deep fears of endermen, fire, and being locked in a room or cell. As a leader she forces herself to develop more confidence and bravery so that she can be the grand elder the new Kirameku needs and deserves.
 
-Extra info: As the last Kiramekan left, she has a strong personal tie to Kirameku's traditions around the dead, especially with how Kirameku had first met its end. It's not easy making an enemy of her but if you want to ensure peace with her, best not to either threaten another genocide, no matter if it's against Kirameku or another faction or people, or be insensitive about Kirameku's history and The Great Tragedy. Also even if it's something she's been working on she can still jump to conclusions too quickly or be very reactive.
+Extra info: As the last Kiramekan left, she has a strong personal tie to Kirameku's traditions around the dead, especially with how Kirameku had first met its end. It's not easy making an enemy of her but if you want to ensure peace with her, best not to either threaten Kirameku or be rude towards her or her family (she especially gets mad when called a demon or told "Spiorad wasn't a good leader anyway". Also even if it's something she's been working on she can still jump to conclusions too quickly or be very reactive.
+
+
+## The Second Elder
+
+*images coming soon*
+
+Name: Saph
+
+Age: 21 years
+
+Size: 5'7 tall, 140 lbs
+
+Birthday: September 21
+
+Star Sign: Libra
+
+Weapon of choice: Iron sword
+
+Backstory: A wandering historian. He enjoys traveling the world, getting to know other people, and learning about all the diverse histories and cultures. He also isn't afraid to dive into all history - even the bad and ugly side of the world's nature. 
+He was travelling through the area near the western nations when Kinyakumo and Yosokoa closed their borders. Unable to visit either nation, he made Kirameku his next stop. After learning of its history, he finds Emi's mission an admirable feat and decided that he would help. He's got no experience of a world leader but he knows enough from speaking with other world leaders and historians to give tips based on what worked for some nations and what hasn't worked for other nations and then match them with Emi's convictions.
+
+Extra Info: He doesn't use magic nor has the ability to. He also isn't of Kiramekan descent. Despite all that, he's trusted enough to be the second elder of Kirameku.
 
 
 ## Historical figure of Importance: Spiorad
@@ -118,7 +140,7 @@ In 2023, a young mage named Emi came across the ruins of Kirameku's capital whil
 
 This is kinda of a TLDR where you list your top 5 things that are unique or different about your nation. Be creative!
 
-* The number of elders in the governing council grows and shrinks as the nation does. Right now the only elder is Emi, but at the nation's peak there were 13, including Grand Elder Spiorad.
+* The number of elders in the governing council grows and shrinks as the nation does. Right now it's just Emi and Saph, but at the nation's peak there were 13, including Grand Elder Spiorad.
 * Those native to Kirameku can live up to around 200 years of age. Those in leadership roles step down at the age of 195 to allow the next generation to step up.
 * The national symbol is the blue monarch butterfly, representing Kirameku's rebirth and the culture around spirits and the dead.
 * As a nation of mages and with the Grand Elder being the last living mage, Kirameku is well-known for their magic.
