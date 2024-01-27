@@ -2,6 +2,7 @@
 
 * [Squiki](README.md)
 * [Lore Recap](lore-recap.md)
+* [Dungeons](dungeons.md)
 
 ## Factions
 
