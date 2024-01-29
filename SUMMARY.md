@@ -16,3 +16,4 @@
 * [Juniper's Farm](factions/junipers-farm.md)
 * [United Factions/SideMatter Industries](factions/united-factions-sidematter-industries.md)
 * [Kinyakumo](factions/kinyakumo.md)
+* [RD](factions/rd.md)
