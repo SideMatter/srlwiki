@@ -2,13 +2,19 @@
 
 *Disclaimer: The dragon statue at the main northeastern entrance, the dragon pin on Emi's clothing, and Emi's hair and eyes changing color for splatfests are NOT related to lore in any way. They're just references to Emi's main persona, The Gatekeeper. They've been traits of that character since December 2022 and the statue has been up since June 2023.*
 
-## Basic Stats
+## Basic Information
 
-Leader or notable persons/entities: Emi *Grand Elder*, Saph *Elder*
+Elder's Council:
 
-Location of town hall or other memorable location: Kirameku's Offices of International Affairs is located on the west end of Kirameku's deep caverns. A castle is currently being built on the southern islands.
+Grand Elder: Emi
 
-Founding date: 524 *First founding*, February 2023 *resurrection*
+Elders: Saph
+
+Location of town hall or other major: Kirameku's Offices of International Affairs is located on the west end of Kirameku's deep caverns. A castle is currently being built on the southern islands.
+
+Initial Founding: 524
+
+Resurrection: February 2023
 
 
 ## About the Grand Elder
@@ -113,19 +119,30 @@ Star Sign: Libra
 Backstory: Amelia wasn't a mage of high status in her life. That didn't stop the love she had for Grand Heir Evrn. Her kind and peaceful nature balanced perfectly enough with Evrn's explosive nature to make the relationship a healthy one. On her 18th birthday, she met with Evrn on the hill she would usually meet him on and awaited her birthday gift. One second looking over a valley, the next she was collapsed on the ground with a sharp pain in her chest. Evrn was able to counter the withering spell quickly enough for her to be fine, but he still had consequences to face. His banishment was hard for her because she knew he didn't mean to almost hurt or kill her. While she was grieving for her boyfriend, Coirbeachd attacked. She and her family were among those who evacuated during this first attack. However, she was unable to return back home. It was believed that she and her family were among the first victims of the genocide that followed.
 
 
-## Faction Information
+## History
 
-Kirameku was first established in the year 524. The first elders have made a pact to be a passive nation, as they were aware of the potential dangers that can come with magic. Not much is known right now about Kirameku's distant past.
+Kirameku was first established 1500 years before present day. During that time, war had been raging among the multiple civilizations – tribes, villages, cities, and nations alike - of humans that lived in modern-day Kinyakumo, Kirameku, international territory, and RDS over the issues around magic. Non-magics perceived magic users as a threat that needed to be eliminated, while magic users were fighting in the name of self-defense, some even fighting because they feel superior to non-magics. There were also cultural differences with non-magics not having a good understanding and even being weirded out by magical culture and magic users feeling like the non-magics’ reasons for war are sinful and that karma will be coming back for them.
 
-At the peak of Kirameku, the nation stretched out as far as modern-day Kinyakumo, Sinivae, Sidelabs, and RDS, and it was home to thousands of mages. There was also a temple far to the south that's currently under protective preservation efforts and orders. But how did a nation that used to be almost as on-top-of-the-world as Yosokoa suddenly disappear, you may ask?
+The people that started Kirameku are from a small hamlet off the coast west of the main island. They found themselves on the island after the hamlet got attacked in the middle of the war. One of the four decided that he’s had enough with the war and that he was going to make a nation meant to be a sanctuary from war, a nation fighting for peace through peace. Everyone else thought he was insane. It had been felt unanimously that any hope of peace between magical humans and non-magical humans was long gone. He asserted that he as going to try anyway – so in short the reason Kirameku even exists is because someone wanted to prove a point.
 
-In 1423, a young mage by the name of Evrn was training to become the next grand elder after the current elder, Spiorad. However, he accidentally used the forbidden withering spell when trying to surprise his girlfriend, Amelia, with a field filled with her favorite flower for her 18th birthday. Even though Amelia was able to recover just fine, Evrn still had to face consequences. Normally such an act would result in an execution, but due to his position and the fact Amelia didn't face permanent injury, he was stripped of his position and banished to the nether. He was angered at the elders' decision, angry enough to accidentally create and host Coirbeachd, a demon of fire.
+Its capital lies on the island immediately west of spawn and the nation has grown and shrunk from there. In the nation’s peak, it’s stretched out as far as present-day Kinyakumo, Sinivae, and RDS. Today, Kirameku only occupies the capital island and some islands to the south of Sidelabs, allowing the nations that now occupy the land that used to belong to Kirameku to keep the land. There’s also a temple far to the south that’s kept under protection.
 
-Coirbeachd wreaked havoc over Kirameku, forcing people to evacuate, including the new heir's family. Grand Elder Spiorad and the other elders were able to seal him away in a wizard ring.
+As for how leadership works, there’s one main leader, the grand elder, who is the head and main representative of the nation. The other elders act as an extension of the grand elder and help divide up the responsibilities. In example, Kirameku in its glory days had 13 districts and 13 elders if you count the Grand Elder and the capital. Each elder was assigned a district and focused on the area’s on local issues and trade. Nowadays, Emi is over the southern island as well as culture and history preservation, magical matters, and defense while Saph is over the northern island as well as international relations and historical research and restoration.
 
-Neighboring nations felt that Kirameku posed a threat to their safety and they responded by rushing Kirameku and eliminating its people. Most were burned at the pyre while others were tortured and enslaved to try to "work the demons and evil out of them". The elders themselves were killed trying to protect their people. The survivors who were able to flee or hide only totaled to around 20. Yosokoa was the only nearby nation to not have fought against Kirameku. Emperor Nazerious intervened when Spiorad was confirmed the last elder killed. After he laid his old friend to rest, he spread a lie that dominoed into the attacking factions going after each other until nothing remained of them.
+But how did a nation that used to be almost as on top of the world as Yosokoa suddenly disappear, you may ask?
 
-In 2023, a young mage named Emi came across the ruins of Kirameku's capital while exploring. Curiosity consumed her enough to have a desire to rebuild what used to be there. She finds the tome Spiorad intentionally left out in hopes that someone could reseal Coirbeachd when the time came *she didn't read far enough to know that it was intended that she unseal him and reseal him since she freaked out at the idea of a demon in the area, but instructions were still followed so mission failed successfully). Naz filled her in on the information needed and the nation was miraculously able to rise from its *both figurative and literal* ashes. Emi is also allowing current settlements that are now on Kirameku's old land to stay, and she's expanded the land to some islands south of Kirameku and Sidelabs so it wouldn't just be the island that once was - and still is - Kirameku's capital.
+
+## The Great Tragedy
+
+600 years before present day, the young mage training up to be the next grand elder, Evrn, accidentally used the forbidden withering spell when trying to surprise his girlfriend, Amelia, for her 18th birthday. Although Amelia was able to recover just fine, Evrn still had to face consequences. He was stripped of his future power and banished to the nether. He was angry, but angered enough to accidentally create and host Coirbeachd, a fire demon.
+
+Coirbeachd wreaked havoc over Kirameku, forcing people to evacuate to neighboring nations, including the person who’s taken Evrn’s position. Grand Elder Spiorad and the other elders were able to seal him away in a wizard ring.
+
+Neighboring kingdoms felt that Kirameku posed a threat to their safety and they responded by rushing Kirameku and eliminating its people. Most were burned at the pyre while others were tortured and enslaved to try to “work the demons and evil out of them”. The elders themselves were killed trying to protect their people. The survivors totaled up to 20 people at most who were able to flee or hide. Yosokoa was the only nearby faction to not go against Kirameku. Emperor Naz intervened when his friend, Spiorad, was killed and he spread a lie or two that dominoed into the factions attacking Kirameku going after each other until there was nothing left.
+
+A year ago now, a young Emi came across Kirameku’s capital ruins and let her curiosity run rampant to the point she wanted to build the area back up. She finds the tome Spiorad intentionally left out that would allow her to unseal Coirbeachd and reseal him in a stronger seal, which she didn’t read that far since she freaked out about a demon being in the area, but instructions were still followed so mission failed successfully. Naz filled her in on the information on Kirameku that she needed to know in order to go forward in continuing the nation’s history.
+
+Nowadays, Emi leads Kirameku with some extra help from a friend, Saph. Kirameku’s main focus is establishing a peaceful place where magic users and non-magics can peacefully coexist.
 
 
 ## Holidays of Importance
@@ -136,12 +153,16 @@ In 2023, a young mage named Emi came across the ruins of Kirameku's capital whil
 * December 24th-25th: Festival of Lights - This is a more somber holiday where it's made to memorialize those lost in The Great Tragedy. A candlelight vigil is held the night of the 24th. Happens over real-world Christmas.
 
 
-## Top 3-5 things about your nation
+## Trivia around Kirameku
 
-This is kinda of a TLDR where you list your top 5 things that are unique or different about your nation. Be creative!
-
+Related to lore:
 * The number of elders in the governing council grows and shrinks as the nation does. Right now it's just Emi and Saph, but at the nation's peak there were 13, including Grand Elder Spiorad.
-* Those native to Kirameku can live up to around 200 years of age. Those in leadership roles step down at the age of 195 to allow the next generation to step up.
+* Those native to Kirameku can live up to around 200 years of age, due to the magic they carry. Those in leadership roles step down at the age of 195 to allow the next generation to step up.
 * The national symbol is the blue monarch butterfly, representing Kirameku's rebirth and the culture around spirits and the dead.
-* As a nation of mages and with the Grand Elder being the last living mage, Kirameku is well-known for their magic.
-* The national motto is "Honoring past tragedies to realize future miracles".
+* As a nation of mages and with the Grand Elder being the last living mage, Kirameku is well-known for their magic and their main export is books.
+* The national motto is "Honoring yesterday's tragedies to realize tomorrow's miracles".
+
+Not related to lore:
+* The names for Saph and Emi come from gemstones. Emi = Emerald, Saph = Sapphire. Both characters are also OCs of Emi's and have been off and on used since 2018.
+* The initial name for Kirameku was "Interdimensional Syndicate", sharing the name with Emi's instagram page for their comic. Another previous nation name was "The Arcanelands".
+* Translations: The fire demon Coirbeachd's name is Scottish Gaelic for "corruption", the last grand elder Spiorad's name also comes from Gaelic, meaning "spirit", and the nation name Kirameku is Japanese for "sparkling".
