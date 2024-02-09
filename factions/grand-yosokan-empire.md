@@ -45,6 +45,9 @@ Nazerious, assuming the role of Emperor, formed Yosokoa into the Grand Yosokoan 
 - Imperial Office of Temple Affairs: Responsible for the upkeep of the Great Yosokoan Temple which is soon to be reformed into the Temple Museum due to the *Storm Incident of 2023*
 - Imperial Office of Magical Beings: Responsible for researching how magic effects the landscape of Yosokoa, as well as The Storm and its impact on Yosokoa and the world.
 
+Yosokoa is governed completley by the Emperor, although his tasks are divided among Imperial Offices. Emperor Naz is married to a woman named Tamayo, who became the Empress. Along with the Emperor and Empress, Naz and Tamayo had a biological son named Arceus. Prince Arceus now is the lead of the Imperial office of the Military, and is the heir to the Yosokoan Throne. Alongside Arceus, Naz and Tamayo had an adopted daughter, Emi. The Grand Elder of Kirameku was first dropped at the doorstep of the palace when Emi was only a few months old. Naz and Tamayo took her in, raised her and made her the Princess of Yosokoa. By the age of 18, Emi took on a dual citizenship and decided to govern Kirameku as the first Grand Elder in many centuries. Nowadays, Princess Emi still gives her input on some Yosokoan matters but tends to leave the governing to the Emperor.
+
+
 ## YOSOKOA IN THE MODERN AGE
 Yosokoa, is now known for its technological advancements and aid for new nations popping up in the Overworld. Nazerious' newest endeavor, NazCorp is a military company focused on the production of war technology and general tech advancements that are shipped out to nations who request it. NazCorp sits on lands south of Neo Kirameku, and is considered a Autonomous Province and is the only one of its kind in Yosokoa Territory.
 Yosokoa is a member of the United Factions, a global congregation of all nations settling disputes and dealing with international events.
