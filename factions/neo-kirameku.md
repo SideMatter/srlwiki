@@ -33,7 +33,13 @@ Star sign: Sagittarious
 
 Weapons of Choice: *Excalibur's Judgement* sword, *Tome of the Ancients* spellbook
 
-Backstory: Originally an adventurous spirit, Emi was born and raised in Yosokoa after her ancestors fled there during The Great Tragedy. She became more cautious after being attacked by an endermen at a young age and eventually being captured and tortured by Coirbeachd when put on the spot to seal him away when she was still inexperienced with magic and combat, developing deep fears of endermen, fire, and being locked in a room or cell. As a leader she forces herself to develop more confidence and bravery so that she can be the grand elder the new Kirameku needs and deserves.
+Backstory: After The Great Tragedy, the survivors that were left stayed in Yosokoa. A few centuries pass, and eventually Emi was born in Yosokoa. Her parents, a few months into her life, decided to leave for reasons unknown, and left her at the palace steps. Emperor Nazerious and Empress Tamayo took the young girl in and raised her as the princess of Yosokoa.
+
+As Emi grew up, she was tutored and trained by Naz. She had also taken part in Yokosoa's traditions with her adoptive parents and older brother, believing she was truly a Yosokoan. When Emi was 17, Naz decided she was old enough to learn the truth about her nationality and lineage. She was from a long-dead nation and descended from the line of Grand Elders.
+
+When she turned 18, Naz showed her the ruins of said nation. She decided to take on the challenge of resurrecting the long-dormant nation. She was granted dual citizenship for Yosokoa and Kirameku and became the first Grand Elder in 600 years. And even after meeting the spirits of her true family members and others that came before her, she holds her place in Yosokoa and its imperial family close to heart and honors both nations and cultures.
+
+At the age of 20, she meets Saph and asks him to co-lead Kirameku with her as the second elder. While Emi focuses most of her time and energy into her responsibilities in Kirameku, she still concerns herself with Yosokoa's matters and occassionally offers her say on some matters as well as visit her adoptive family.
 
 Extra info: As the last Kiramekan left, she has a strong personal tie to Kirameku's traditions around the dead, especially with how Kirameku had first met its end. It's not easy making an enemy of her but if you want to ensure peace with her, best not to either threaten Kirameku or be rude towards her or her family (she especially gets mad when called a demon or told "Spiorad wasn't a good leader anyway". Also even if it's something she's been working on she can still jump to conclusions too quickly or be very reactive.
 
