@@ -2,6 +2,7 @@
 
 * [Squiki](README.md)
 * [Lore Recap](lore-recap.md)
+* [Titan Powers](titan-powers.md)
 * [Dungeons](dungeons.md)
 
 ## Factions
