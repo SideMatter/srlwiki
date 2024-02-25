@@ -10,7 +10,7 @@ Grand Elder: Emi
 
 Elders: Saph
 
-Location of town hall or other major: Kirameku's Offices of International Affairs is located on the west end of Kirameku's deep caverns. A castle is currently being built on the southern islands.
+Location of town hall or other major landmarks: Kirameku's Offices of International Affairs is located on the west end of Kirameku's deep caverns. The pagoda on the northern island acts as a commons area for the spirits of the dead when they visit the mortal world. A new castle is currently being built on the southern islands.
 
 Initial Founding: 524
 
@@ -21,7 +21,7 @@ Resurrection: February 2023
 
 *images coming soon*
 
-Name: Emi
+Name: Emi; Full name: Emily Sìth-Matsuzaki
 
 Age: 20 years
 
@@ -48,7 +48,7 @@ Extra info: As the last Kiramekan left, she has a strong personal tie to Kiramek
 
 *images coming soon*
 
-Name: Saph
+Name: Saph; Full name: Saphir Eachdraiche
 
 Age: 21 years
 
@@ -63,14 +63,15 @@ Weapon of choice: Iron sword
 Backstory: A wandering historian. He enjoys traveling the world, getting to know other people, and learning about all the diverse histories and cultures. He also isn't afraid to dive into all history - even the bad and ugly side of the world's nature. 
 He was travelling through the area near the western nations when Kinyakumo and Yosokoa closed their borders. Unable to visit either nation, he made Kirameku his next stop. After learning of its history, he finds Emi's mission an admirable feat and decided that he would help. He's got no experience of a world leader but he knows enough from speaking with other world leaders and historians to give tips based on what worked for some nations and what hasn't worked for other nations and then match them with Emi's convictions.
 
-Extra Info: He doesn't use magic nor has the ability to. He also isn't of Kiramekan descent. Despite all that, he's trusted enough to be the second elder of Kirameku.
+He is also of Kiramekan descent, despite not being able to conjure magic. He is from one of the bloodlines of elders in Kirameku. His family was able to escape the attacks on Kirameku and even aided the escape for those who didn't leave early enough, found shelter, and were able to survive. After the attacks had fully calmed down, the family didn't feel safe living in the region anymore so they left to go farther away. Over the 600 years, enough non-magics married into the family to make it so even if Saph does have some abilities, he's not able to conjure and use magic traditionally.
 
+Extra info: The Eachdraiche family crest was kept over the years and now is carried around by Saph so he could learn the truth of his lineage someday.
 
 ## Historical figure of Importance: Spiorad
 
 *image coming soon*
 
-Name: Spiorad
+Name: Spiorad; Full name: Spiorad Sìth
 
 Age *at death*: 194 years
 
@@ -89,7 +90,7 @@ Backstory: Spiorad is known for being the last Grand Elder of Kirameku's golden 
 
 *images coming soon*
 
-Name: Evrn
+Name: Evrn; Full name: Evrn Sìth
 
 Age *at death*: 18
 
@@ -110,7 +111,7 @@ Extra info: Evrn, alongside Spiorad, offers Emi help after death as needed. He s
 
 *image coming soon*
 
-Name: Amelia
+Name: Amelia; Full name: Amelia Aotrom
 
 Age *at death*: 18
 
@@ -151,7 +152,41 @@ A year ago now, a young Emi came across Kirameku’s capital ruins and let her c
 Nowadays, Emi leads Kirameku with some extra help from a friend, Saph. Kirameku’s main focus is establishing a peaceful place where magic users and non-magics can peacefully coexist.
 
 
-## Holidays of Importance
+## Kiramekan Culture and Magic
+
+A lot of Kirameku's culture is based around the magic present in the area's environment and traditions around the dead.
+
+### Spirits
+
+All of the spirits that appear in Kirameku are of past residents who are no longer alive. Most spirits like to visit home and family after death while occassionally there could be circumstances where a spirit is trapped in the mortal world and unable to pass on. They also believe that beings such as gods and demons are their own classification of spirits.
+
+Most spirits do also keep an eye on Kirameku and react to things that happen, although they can't do anything about everything that happens other than past elders. If there's someone that is a good ally, they'll know. If someone is going to end up an enemy, they'll know. Most spirits accept everything that happens while others are more vocal about their excitement or distates.
+
+How they appear depends on the time and person. They'll always fully appear to those of Kiramekan decent while for outsiders they could be seen as either a blue flame or an otherworldly light if they choose not to be visible. In Kirameku and allied cultures they're just referred to as spirits while in more neutral or hostile culture's they're referred to as Will-o'-the-Wisps.
+
+### Vow of the Elders
+
+Even after death, the past elders of Kirameku do still get to keep some of their powers. There was an oath made by all elder's in Kirameku's history to be a peaceful nation and to strive for a place where both magical and non-magical people can co-exist safely. With this, the elders can return to the mortal world to aid the current generation of elders. In emergency situations in combat, an elder can recite an incantation or prayer and one or a few spirits of the past would come and either offer support or fight alongside the elder.
+
+This spell originated during the Great Tragedy at the Battle for the Kiramekan Temple. Even though the old meeting spot for the dead is secluded, it wasn't immune to the events. Hunters invaded and attacked the elders that were there. However, the elders refused to let the sacred area be burned down and left to ruin, so they fought back as spirits until all of the hunters have fallen.
+
+### Emi's powers
+
+They include but aren't limited to:
+* Conjuring magic
+* Performing spells and rituals
+* Sealing evil spirits away
+* Sensing different magic signatures
+* Sensing nearby magical issues
+* Vow of the Elders
+
+### Saph's powers
+
+* Sensing different magic signatures
+* Sensing nearby magical issues
+* Vow of the Elders
+
+### Holidays of Importance
 
 * Summer and Winter solstices and Fall and Spring Equinoxes
 * October 31st and November 1st: Festival of the Dead - An evening and a day where spirits are allowed free access to the mortal world again. The night of October 31st is when evil spirits return, but are easily warded away by the color purple. November 1st is when the spirits of the deceased return to visit the mortal world to see their home and families. This holiday is similar to real-world Halloween and Day of the Dead.
@@ -168,7 +203,9 @@ Related to lore:
 * As a nation of mages and with the Grand Elder being the last living mage, Kirameku is well-known for their magic and their main export is books.
 * The national motto is "Honoring yesterday's tragedies to realize tomorrow's miracles".
 
+
 Not related to lore:
 * The names for Saph and Emi come from gemstones. Emi = Emerald, Saph = Sapphire. Both characters are also OCs of Emi's and have been off and on used since 2018.
 * The initial name for Kirameku was "Interdimensional Syndicate", sharing the name with Emi's instagram page for their comic. Another previous nation name was "The Arcanelands".
 * Translations: The fire demon Coirbeachd's name is Scottish Gaelic for "corruption", the last grand elder Spiorad's name also comes from Gaelic, meaning "spirit", and the nation name Kirameku is Japanese for "sparkling".
+* The older builds are based off of traditional Japanese architecture while newer builds and designs are based off of medieval Scottish/Celtic architecture and art. There are even a few references to Scottish culture in Kirameku's lore and culture, such as the Will-o'-the-Wisps. In real-world mythology, they can be seen as mischevious spirits of the dead to some but overall are painted in a negative light due to the belief they lead travellers to their death.
